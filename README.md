@@ -6,3 +6,4 @@ Technical Assessment submissions for CS0065 - AN43.
 
 - [DemoEarlyWarningTool](./DemoEarlyWarningTool) — Asynchronous Activity 1 KNIME workflow, dataset, README, and evidence photo.
 - [TA1_OMBROG](./TA1_OMBROG) — Technical Assessment 1: random walk simulation using AgentPy, including the Python script, report PDF, and generated analysis outputs.
+- [TA2_OMBROG](./TA2_OMBROG) — Technical Assessment 2: rule-based vacuum cleaner agent simulation with two-room and bonus three-room scenarios.
